@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,400;1,100;1,200&family=Ubuntu:ital,wght@1,300&family=Varela&display=swap');
+*{
+margin:0;
+padding:0;
+box-sizing: border-box;
+font-family:"Poppins","sans-serif";
+}
+
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:80vh;
+    flex-direction: column;
+   /* background: #23242a;*/background: white;
+}
+h2{
+    margin-left:5%;
+    text-align: center;text-decoration:none;
+    color:black;
+    text-align: center;
+    letter-spacing:0.1rem;
+}
+h2  a {
+    color:black;text-decoration: none;font-weight: 300;font-family: sans-serif;
+}
+.inputBox{margin-top: 5%;
+
+}
+.span_a{
+    color: blue;text-decoration: none;margin-left: 24%;font-size: 16px;font-weight: 390px;
+}
+.box{
+    position:relative;
+    width:380px;
+    height:300px;
+    background:powderblue;
+border-radius:8px;
+overflow:hidden;
+margin-left: 6%;
+
+} 
+span{
+    font-weight:400; color: black;
+    margin-top: 14%;padding: 1%;
+    font-size: medium;
+}
+input{
+    width: 323px;border-color:lightblue;border-radius: 10px;
+    box-sizing: border-box;padding: 2%;margin-top: 3%;
+}
+
+button{
+    width:323px;
+    margin-top: 5%;padding:2%;color: white;background-color: green;border-radius:8px;
+}
+s{
+    font-size: medium;
+    color: blue;margin-left: 30px;
+    width: 100px;text-align: center;
+    text-align: center;padding:1%;
+   background:white;border-radius:8px;
+}
+a{
+    text-decoration: none;font-weight: bold;border-radius: 5px;color:blue;
+}
+
+.box1{
+    position:relative;
+    width:390px;
+    height:80px;
+    background: ;
+border-radius:8px;
+overflow:hidden;
+margin-left: 6%;margin-top:2%;
+} 
+.inbox1{padding-top: 2%;
+    margin-top: 1%;text-align:center;
+}
+.b{
+    color:rgb(31, 31, 229);
+}
+b{ text-align: center;
+    padding-top: 1%;
+}
+
+a:as{
+    font-size: 12px;padding: 2%;margin-left: 2%;color:skyblue;
+}
+
+.sa{
+    font-size: 14px;padding-left:1%;margin-left:1%;color:black;font-weight: 300;font-family: sans-serif;
+}
